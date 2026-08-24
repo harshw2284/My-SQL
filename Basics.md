@@ -1,8 +1,4 @@
-# Learning SQL
 
-This study guide provides a comprehensive synthesis of relational database management using SQL and MySQL. It covers fundamental design principles, data manipulation, and advanced querying techniques.
-
----
 
 ## 1. Introduction to Databases and SQL
 
