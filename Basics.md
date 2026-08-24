@@ -1,8 +1,6 @@
-# 📚 MySQL Learning Documentation
+# Learning SQL
 
-This repository documents my journey of learning **SQL and MySQL**, from database fundamentals to advanced concepts and practical queries.
-
-The goal is to maintain organized notes, examples, and practice exercises that can serve as both a **learning reference** and a **revision guide**.
+This study guide provides a comprehensive synthesis of relational database management using SQL and MySQL. It covers fundamental design principles, data manipulation, and advanced querying techniques.
 
 ---
 
